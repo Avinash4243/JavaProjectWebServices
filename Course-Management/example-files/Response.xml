@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getAllCourseDetailsResponse xmlns="http://com.course-management//courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://com.course-management//courses course.xsd">
+	<coursedetails>
+		<id>101</id>
+		<name>Java</name>
+		<description>Object Oriented Language</description>
+	</coursedetails>
+</getAllCourseDetailsResponse>
