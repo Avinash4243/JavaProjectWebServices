@@ -1,0 +1,10 @@
+course_management\com\courses\ObjectFactory.class
+com\soap\webservices\CourseManagement\soap\CourseManagementEndPoint.class
+course_management\com\courses\GetAllCourseDetailsResponse.class
+course_management\com\courses\GetAllCourseDetailsRequest.class
+course_management\com\courses\Coursedetails.class
+com\soap\webservices\CourseManagement\soap\bean\Course.class
+course_management\com\courses\package-info.class
+com\soap\webservices\CourseManagement\soap\WebServiceConfig.class
+com\soap\webservices\CourseManagement\soap\service\CourseManagementService.class
+com\soap\webservices\CourseManagement\CourseManagementApplication.class
